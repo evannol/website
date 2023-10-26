@@ -1,0 +1,21 @@
+body {
+    background-color: DarkSlateGray;
+    color: yellow;
+    font-family: monospace;
+}
+
+#title {
+    text-align: center;
+}
+
+a {
+    color: plum
+}
+
+.container {
+    position: fixed;
+    column-count: 2;
+    column-gap: 10%;
+    left: 5%;
+    top: 10%;
+}
