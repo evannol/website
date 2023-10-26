@@ -12,10 +12,13 @@ a {
     color: plum
 }
 
-.container {
-    position: fixed;
-    column-count: 2;
-    column-gap: 10%;
-    left: 5%;
-    top: 10%;
+.stuff {
+    float: right;
+    margin-right: 30%
 }
+
+.about {
+    float: left;
+    margin-left: 10%
+}
+
