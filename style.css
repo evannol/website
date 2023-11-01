@@ -2,6 +2,7 @@ body {
     background-color: DarkSlateGray;
     color: yellow;
     font-family: monospace;
+    max-width: 100%;
 }
 
 #title {
@@ -13,16 +14,30 @@ a {
     text-decoration: none
 }
 
-.stuff {
-    float: right;
-    margin-right: 30%
-}
-
-.about {
-    float: left;
-    margin-left: 10%
-}
-
 ul li {
      padding: 5px 0px; 
 }
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15%;
+
+}
+
+.left {
+    grid-column: 1;
+    margin-left: 20%;
+}
+
+.right {
+    grid-column: 2;
+    margin-right: 20%;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+
+

@@ -1,0 +1,47 @@
+            <u><h2>Useful Links</h2></header></u>
+            <ul>
+                <li><a href="https://www.remove.bg" target="_blank">Remove backround from images</a></li>
+                <li><a href="https://www.militarynewbie.com/wp-content/uploads/2013/11/TM-21-210-Improvised-Munitions-Handbook-1969-Department-of-the-Army.pdf" target="_blank">TM 31 210</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals" target="_blank">Wikipedia portals</a></li>
+                <li><a href="https://liveuamap.com" target="_blank">Live maps of current conflicts</a></li>
+                <li><a href="https://betterttv.com/emotes/popular" target="_blank">BTTV emotes</a></li>
+                <li><a href="http://www.websdr.org" target="_blank">internet SDRs</a></li>
+                <li><a href="https://images.google.com" target="_blank">Google reverse image search</a></li>
+                <li><a href="https://inteltechniques.com" target="_blank">OSINT tools</a></li>
+                <li><a href="https://whatsmyname.app" target="_blank">Username lookup</a></li>
+            </ul>
+
+            <u><h2>About Me</h2></u>
+            <p>My name is Evan Olcott. I am a sophomore who goes to Arlington Tech.</p>
+            <p>I am 15 years old, and my birth day is November 4th.</p>
+            <p>I know the programming language Python.</p>
+            <p> I am learning HTML CSS and JS.</p>
+            <p>I plan on becoming a network architect.</p>
+
+            <nav>
+                <header>
+                    <u><h2>Things I Like</h2></header></u>
+                </header>
+                <ul>
+                    <li><a href="https://en.wikipedia.org/wiki/Dog" target="_blank">dogs</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Chocolate" target="_blank">chocolate</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Computer" target="_blank">computers</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Internet" target="_blank">the internet</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">Wi-Fi</a></li>
+                </ul>
+            </nav>
+
+            <u><h2>Software I use</h2></header></u>
+            <ul>
+                <li><a href="https://www.ventoy.net/en/index.html" target="_blank">Ventoy for mutli image bootable USBs</a></li>
+                <li><a href="https://ublockorigin.com" target="_blank">uBlock Orgin (the best adblocker)</a></li>
+                <li><a href="https://ublockorigin.com" target="_blank">Cloudflare Warp for privacy from network owner</a></li>
+            </ul>
+
+            <header>
+                <u><h2>Assignments</h2></u>
+            </header>
+            <ul>
+                <li><a href="HeadFirstLounge/index.html" target="_blank">Head First Lounge</a></li>
+                <li><a href="StarbuzzCoffee/index.html" target="_blank">Starbuzz Coffee</a></li>
+            </ul>
