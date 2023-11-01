@@ -20,19 +20,16 @@ ul li {
 
 .wrapper {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 15%;
+    grid-template-columns: 1fr 2fr 1fr 2fr 1fr;
 
 }
 
 .left {
-    grid-column: 1;
-    margin-left: 20%;
+    grid-column: 2;
 }
 
 .right {
-    grid-column: 2;
-    margin-right: 20%;
+    grid-column: 4;
 }
 
 h2 {
